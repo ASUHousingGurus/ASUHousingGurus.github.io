@@ -3,7 +3,7 @@
 
 ### ASU Housing Gurus History
 
-The ASU Housing Gurus were established in September 2018.The team comprises of Parosh Rashid, Jessica Hong, Sam Steinberg, and Ricardo Campa. The team created the app with the purpose of helping ASU students find affordable and housing options that meet the expectation of a hard working college student. The ASU Housing Gurusmotto is "Choosing the right living shouldn't be harder than your classes."
+The ASU Housing Gurus were established in September 2018.The team comprises of Parosh Rashid, Jessica Hong, Sam Steinberg, and Ricardo Campa. The team created the app with the purpose of helping ASU students find affordable and housing options that meet the expectation of a hard working college student. The ASU Housing Gurus motto is "Choosing the right living shouldn't be harder than your classes."
 
 
 ### ASU Housing Gurus  App
