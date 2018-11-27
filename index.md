@@ -1,13 +1,12 @@
 ## Welcome to the ASU Housing Gurus Website
 ![RicardoOfTheCampa](Housing Gurus Icon.JPG)
 
-### ASU Gurus History
+### ASU Housing Gurus History
 
-ASU Housing Gurus were established in September 2018.The team comprises of Parosh Rashid, Jessica Hong, Sam Steinberg, and Ricardo Campa.
+The ASU Housing Gurus were established in September 2018.The team comprises of Parosh Rashid, Jessica Hong, Sam Steinberg, and Ricardo Campa. The team created the app with the purpose of helping ASU students find affordable and housing options that meet the expectation of a hard working college student. The ASU Housing Gurusmotto is "Choosing the right living shouldn't be harder than your classes."
 
 
-
-### ASU Gurus Housing App
+### ASU Housing Gurus  App
 [![This is the MVP1](asuhousinggurusthumbnail.jpg)](https://www.youtube.com/watch?v=dwEN7fCzl1A&feature=youtu.be "My Video")
 
 ## List of Housing Options Around ASU
@@ -23,4 +22,4 @@ The User will select features such as if the housing allows pets, the housing pr
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the Housing App? Feel free to contact the ASU Gurus themselves at asuhousinggurus@gmail.com 24/7 and an ASU Guru will find the time to read you email and respond to you will professional and helpful responses. 
