@@ -13,6 +13,8 @@ ASU Housing Gurus were established in September 2018.The team comprises of Paros
 ## List of Housing Options Around ASU
 ![RicardoOfTheCampa](asu housing app pic1.jpg)
 
+The App offers information on housing options from 20 complexes near ASU. Information includes the pricing, the distance from the ASU campus, gym included, pool included, pets allowed, and if the housing option is offered on campus or off campus.  
+
 ## Search For What You Want in Housing
 ![RicardoOfTheCampa](asu housing app pic2.jpg)
 
