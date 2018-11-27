@@ -22,4 +22,4 @@ The User will select features such as if the housing allows pets, the housing pr
 
 ### Support or Contact
 
-Having trouble with the Housing App? Feel free to contact the ASU Gurus themselves at asuhousinggurus@gmail.com 24/7 and an ASU Guru will find the time to read your email and respond to you will professional and helpful responses. 
+Having trouble with the Housing App? Feel free to contact the ASU Gurus themselves at asuhousinggurus@gmail.com 24/7 and an ASU Guru will find the time to read your email and respond to you with professional and helpful responses. 
