@@ -1,8 +1,5 @@
 ## Welcome to the ASU Housing Gurus Website
 ![RicardoOfTheCampa](Housing Gurus Icon.JPG)
-You can use the [editor on GitHub](https://github.com/ASUHousingGurus/ASUHousingGurus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### ASU Gurus History
 
@@ -10,9 +7,15 @@ ASU Housing Gurus were established in September 2018.The team comprises of Paros
 
 
 
-### Jekyll Themes
+### ASU Gurus Housing App
+[![This is the MVP1](ricardoURL.jpg)](https://www.youtube.com/watch?v=dwEN7fCzl1A&feature=youtu.be "My Video")
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ASUHousingGurus/ASUHousingGurus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+List of Housing Options Around ASU
+![RicardoOfTheCampa](asu housing app pic1.jpg)
+
+The Search For What You Want in Housing
+![RicardoOfTheCampa](asu housing app pic2.jpg)
+
 
 ### Support or Contact
 
