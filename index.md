@@ -8,6 +8,7 @@ The ASU Housing Gurus were established in September 2018.The team comprises of P
 
 ### ASU Housing Gurus  App
 [![This is the MVP1](asuhousinggurusthumbnail.jpg)](https://www.youtube.com/watch?v=dwEN7fCzl1A&feature=youtu.be "My Video")
+Play Store Link: https://play.google.com/store/apps/details?id=com.ricardo.parosh.asuhousingguru&hl=en
 
 ## List of Housing Options Around ASU
 ![RicardoOfTheCampa](asu housing app pic1.jpg)
